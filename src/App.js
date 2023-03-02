@@ -1,4 +1,4 @@
-import Setup from './birthdayReminderApp';
+import Setup from './toursApp';
 
 function App() {
   return (

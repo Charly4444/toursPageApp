@@ -344,3 +344,14 @@ p {
 .more-tour {
   height: auto;
 }
+.btn{
+  width: 90%;
+}
+.tour-price {
+  position: absolute;
+  top: 0px;
+  right: 10px;
+  font-weight: bold;
+  font-size: 25px;
+  /* background-color: darkgray; */
+}
