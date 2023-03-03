@@ -2,7 +2,7 @@ import Setup from './toursApp';
 
 function App() {
   return (
-    <div className="App">
+    <div className="container">
       <Setup />
     </div>
   );
